@@ -9,6 +9,8 @@ This repository contains penetration testing reports created while solving vulne
 
 - TryHackMe
 - Offsec
+- HackTheBox
+- PortSwigger
 
 ## Report Structure
 
